@@ -200,6 +200,8 @@ The workflow performs:
 * Test execution
 * HTML report generation
 
+Last updated: 26 June 2026
+
 ---
 
 # Author

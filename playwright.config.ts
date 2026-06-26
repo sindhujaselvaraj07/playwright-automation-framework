@@ -26,7 +26,6 @@ export default defineConfig({
   /* Shared settings for all the projects below. See https://playwright.dev/docs/api/class-testoptions. */
  use: {
   baseURL: 'http://jupiter.cloud.planittesting.com',
-  headless: false,
   screenshot: 'only-on-failure',
   video: 'retain-on-failure',
   trace: 'on-first-retry',
